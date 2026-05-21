@@ -38,7 +38,7 @@ La pieza funciona como presencia digital para servicios juridicos, con una narra
 | Complejidad | Beginner |
 | Lenguaje principal | Multi-stack |
 | Primera version | 8 de mayo de 2026 |
-| Ultima actualizacion | 12 de mayo de 2026 |
+| Ultima actualizacion | 21 de mayo de 2026 |
 
 ## Enlaces
 
